@@ -27,6 +27,10 @@ const channels = [
         name: 'azteca7',
         url: 'https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd?&ck=eyJjZThmODZkMmYwZDE2Mzg1NzQyMzdhZGE4YWMyZTgyYSIgOiAiNjQyNzcyZWJmMTgzMmYxZjJmYTU4Y2I3ZThmY2ZkMDUifQ=='
     },
+    {
+        name: 'ULTIMO',
+        url: 'blob:https://hocalive.com/9b3fa3ce-43c3-4c78-bdc4-c77a79421214'
+    },
 ]
 let count = 0;
 
